@@ -1,0 +1,11 @@
+{
+  "profile": "neoserv",
+  "remote_dir": "/public_html/YOUR-SUBDIR",
+  "local_dir": ".",
+  "ignore": ".ftpignore",
+  "protected": [".env", "data/**"],
+  "ensure_dirs": ["data/users", "data/auth", "data/sessions", "data/logs"],
+  "verify_url": "",
+  "verify_expect": "\"status\":\"ok\"",
+  "build": ""
+}

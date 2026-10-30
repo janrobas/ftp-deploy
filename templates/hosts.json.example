@@ -1,0 +1,9 @@
+{
+  "neoserv": {
+    "host": "ftp.example.si",
+    "port": 21,
+    "user": "cpanel-user",
+    "password_env": "NEOSERV_FTP_PASS",
+    "tls": false
+  }
+}

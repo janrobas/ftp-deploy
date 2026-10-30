@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+
+# Deploy tool state and local configs (never commit these)
+.ftp-deploy/
+.ftpdeploy.json
+hosts.json
