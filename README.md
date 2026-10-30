@@ -157,4 +157,4 @@ order run against an in-memory fake transport. The integration path
 
 ## License
 
-Add your `LICENSE` file. (Consider MIT for a small utility like this.)
+[MIT](LICENSE) © Jan Robas
